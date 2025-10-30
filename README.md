@@ -1,7 +1,7 @@
 # Keyboard Maestro – Intelligent Automation & Workflow Optimization Tool for macOS  
 
 <div align="center">
-  <img src="https://avatars.mds.yandex.net/i?id=43ddc9cc008ad89d30e1c0917e19c6a456ec2732-10767708-images-thumbs&n=13" width="250"/>
+  <img src="https://kau.sh/images/content/keyboard-maestro.webp" width="250"/>
 </div>  
 <br>
 <div align="center">
